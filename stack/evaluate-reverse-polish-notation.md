@@ -44,5 +44,5 @@ class Solution {
             valuesToBeCalculated.push(result);
         }
         return valuesToBeCalculated.pop();
-    }v
+    }
 ```
